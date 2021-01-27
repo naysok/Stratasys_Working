@@ -6,25 +6,23 @@
 ```
 _images_
     └── 200409_Sphere
-        ├── ouf_fix
+        ├── ouf_alpha
         │     // Print_Data
         ├── images_0
         │     // Layer_Height 0.014 >> 0.027
 
 
-
     └── PRJECT_NAME
         ├── image_0
-        │     // Contour Lines
+        │     // hoge
         ├── image_1
-        │     // Filled Contour
+        │     // hoge
         ├── image_2
-        │     // Set Color
+        │     // hoge
         ├── image_3
-        │     // Affine Transform
+        │     // hoge
         ├── image_4
-        │     // Pseudo-Rendering
+        │     // hoge
         └── image_5
-              // Calc CMYK (from image_2)
-              // Draft-Data for 3D-Printing
+        │     // hoge
 ```
