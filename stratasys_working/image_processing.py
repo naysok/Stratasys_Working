@@ -50,9 +50,8 @@ class ImageProcessing():
 
 
     def change_scale(self, img, target_size_x, target_size_y):
-        pass
-        # img_resize = img.resize((target_size, target_size), Image.LANCZOS)
-        # return img_resize
+        img_resize = img.resize((target_size_x, target_size_y), Image.LANCZOS)
+        return img_resize
 
 
     def change_scale_square(self, img, target_size):
