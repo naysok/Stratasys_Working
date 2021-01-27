@@ -7,7 +7,7 @@ im = image_processing.ImageProcessing()
 
 
 prj_path = "_images_\\200409_Sphere\\"
-src_path = prj_path + "out_fix\\"
+src_path = prj_path + "out_alpha\\"
 new_path = prj_path + "images_0\\"
 
 
